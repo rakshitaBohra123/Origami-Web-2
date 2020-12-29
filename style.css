@@ -1,0 +1,84 @@
+h1{
+    color: red;
+    background-color: yellow;
+    border: solid;
+    text-align: center;
+}
+
+
+
+h2{
+    color: green;
+    background-color: lightblue;
+    border: solid;
+    border-color: green;
+    text-align: center;
+}
+
+h3{
+    color:darkblue;
+    background-color:lightgreen ;
+    border: solid;
+    border-color: darkblue;
+    text-align: center;
+}
+
+li{
+    color:red;
+    border: solid;
+    border-color: red;
+    background-color: lightgreen;
+    text-align: center;
+}
+p{
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 126, 148);
+    border: solid;
+    border-color: black;
+    text-align: center;
+}
+
+.crafts{
+    display:flex;
+    justify-content:space-between
+    
+    
+}
+
+.craft{
+    display:flex;
+    justify-content:space-between
+}
+
+.sr{
+    display: flex;
+    justify-content: space-between;
+}
+
+.srv{
+    display: flex;
+    justify-content: space-between;
+}
+.src{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.qwd{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.dsg{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.vfr{
+    display: flex;
+    justify-content: space-between; 
+}
+
+
+
+
